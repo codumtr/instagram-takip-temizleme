@@ -1,0 +1,22 @@
+{
+  "name": "instagram-takip-temizleme",
+  "version": "4.5.0",
+  "description": "Instagram Toplu Takip Temizleme & Sıfırlama Aracı - CODUM.TR",
+  "main": "codum-instagram-cleaner.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "instagram",
+    "unfollow",
+    "following-cleaner",
+    "instagram-automation",
+    "userscript",
+    "f12-script",
+    "codum",
+    "codumtr"
+  ],
+  "author": "CODUM.TR <codumtr@gmail.com> (https://codum.tr)",
+  "license": "MIT",
+  "homepage": "https://codum.tr/araclar/instagram-toplu-takip-temizleme"
+}
