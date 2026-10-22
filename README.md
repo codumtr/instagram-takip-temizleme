@@ -10,8 +10,8 @@
 
 ---
 
-## 🌟 Neden Bu Araç? (Çobanov Scriptlerine Göre Farkları)
-Eski ve güncelliğini yitirmiş takip bırakma kodlarının aksine, bu araç **2026 güncel Instagram React/DOM yapısıyla %100 uyumludur**:
+## 🌟 Öne Çıkan Yetenekler ve Avantajlar
+Geleneksel ve eski takip bırakma scriptlerinin aksine, bu araç **2026 güncel Instagram React/DOM yapısıyla %100 uyumludur**:
 - **Kesintisiz Döngü (Auto-Cycle):** Ekrandaki hesaplar bittiğinde listeyi kendisi otomatik kapatıp tekrar açar; taze takipçileri yükleyerek durmaksızın listenin sonuna kadar devam eder.
 - **Whitelist (Koruma Listesi):** Çıkarmak istemediğiniz arkadaşlarınızın kullanıcı adlarını panele yazarak güvende tutabilirsiniz.
 - **Mavi Tik Koruması:** Onaylı ve ünlü hesapları otomatik atlayabilme seçeneği.
